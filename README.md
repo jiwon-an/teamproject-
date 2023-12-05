@@ -1,6 +1,6 @@
 # teamproject-
 
-팀 작업 수정 완료!
+팀 작업 수정 완료!@@@@@@!!!!@!@!@!@
 
 1. 깃허브에서 팀장 프로젝트(repository) Fork(복사) 하기
 2. VSCODE에서 clone으로 내PC로 가져오기
